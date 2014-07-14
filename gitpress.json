@@ -18,9 +18,8 @@
 		"\\.html?$"            : "html",
 		".*"                   : "text"		
 	},
-	"title"  : "Akira's Blog",
+	"title"  : "winter's Blog",
 	"comment"  : {"type": "duoshuo", "short_name":"akira-cn"},
-	// "domain-alias"  : ["~blog.weizoo.com", "blog.silverna.org", "silverna.org", "www.silverna.org"],
 	"friends"  : [
 		{
 			"name"  : "JerryQu的小站",
